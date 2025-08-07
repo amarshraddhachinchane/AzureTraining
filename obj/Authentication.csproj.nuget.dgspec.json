@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codes\\Authentication\\AzureTraining\\Authentication.csproj": {}
+    "C:\\Codes\\GITDeploy\\AzureTraining\\Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Codes\\Authentication\\AzureTraining\\Authentication.csproj": {
+    "C:\\Codes\\GITDeploy\\AzureTraining\\Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codes\\Authentication\\AzureTraining\\Authentication.csproj",
+        "projectUniqueName": "C:\\Codes\\GITDeploy\\AzureTraining\\Authentication.csproj",
         "projectName": "Authentication",
-        "projectPath": "C:\\Codes\\Authentication\\AzureTraining\\Authentication.csproj",
+        "projectPath": "C:\\Codes\\GITDeploy\\AzureTraining\\Authentication.csproj",
         "packagesPath": "C:\\Users\\amar.chinchane\\.nuget\\packages\\",
-        "outputPath": "C:\\Codes\\Authentication\\AzureTraining\\obj\\",
+        "outputPath": "C:\\Codes\\GITDeploy\\AzureTraining\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amar.chinchane\\AppData\\Roaming\\NuGet\\NuGet.Config",

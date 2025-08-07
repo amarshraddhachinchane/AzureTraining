@@ -25,7 +25,7 @@ app.Use(async (context, next) =>
     if (!context.User.Identity?.IsAuthenticated ?? false)
     {
         context.Response.StatusCode = 401;
-        await context.Response.WriteAsync("Not Authonticated...??");
+        await context.Response.WriteAsync("Not Authonticated...?? And some ........");
     }
     else
         await next();
